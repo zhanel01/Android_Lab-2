@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SearchView style -->
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:background">@color/white</item>
+        <item name="android:iconifiedByDefault">false</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:queryBackground">@null</item>
+        <item name="android:submitBackground">@null</item>
+        <item name="android:searchIcon">@null</item>
+        <item name="android:searchHintIcon">@null</item>
+        <item name="android:closeIcon">@null</item>
+        <item name="android:goIcon">@null</item>
+        <item name="android:voiceIcon">@null</item>
+        <item name="android:queryHint">@string/search_hint</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>
